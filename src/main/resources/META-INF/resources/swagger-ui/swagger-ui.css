@@ -1,0 +1,9 @@
+.topbar-wrapper img {
+    content: url("META-INF/resources/swagger-ui/rms-logo.png");
+    width: 40px;
+    height: auto;
+}
+
+.topbar {
+    background-color: #0d47a1;
+}
